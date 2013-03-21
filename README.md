@@ -1,4 +1,4 @@
 GraphSimulator
 ==============
 
-JavaScript libraries for graphing calculator
+JavaScript libraries for graphing simulator
